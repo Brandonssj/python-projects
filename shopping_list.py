@@ -3,7 +3,7 @@
 shopping_list = []
 
 print("""Heya! Today we are going to make a shopping list!
-You can put whatever item you may require in this shopping list.Chelse
+You can put whatever item you may require in this shopping list.
 Type "DONE" when you are done adding items to your shopping list""")
 
 while True:
