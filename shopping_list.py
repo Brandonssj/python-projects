@@ -23,4 +23,4 @@ print("Here are all of the items in your shopping list:")
 for items in shopping_list:
     print(items)
 
-print("\nThanks for playing!\nGoodbye!!  :)")
+print("\nThanks for playing!\nGoodbye!!  :-)")
